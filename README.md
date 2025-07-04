@@ -1,0 +1,27 @@
+ #  AI-Powered Personal Assistant (Python Project)
+
+An intelligent, voice-based personal assistant built with Python. It understands your voice commands, summarizes PDFs or news articles using OpenAI GPT, schedules tasks using Google Calendar API, and responds to you with spoken output. All powered by modern AI tools and APIs.
+
+---
+
+##  Features
+
+-  Voice command recognition  
+-  Summarize PDFs or news articles using OpenAI GPT  
+-  Schedule events using Google Calendar API  
+-  Speak responses with Text-to-Speech  
+
+---
+
+##  Tech Stack
+
+Python, OpenAI API, Google Calendar API, SpeechRecognition, PyPDF2, pyttsx3, newspaper3k, dotenv
+
+---
+
+##  How to Run the Project
+
+1. Clone this repository and navigate to the folder:
+   ```bash
+   git clone https://github.com/yourusername/ai-personal-assistant.git
+   cd ai-personal-assistant```
