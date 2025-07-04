@@ -25,3 +25,8 @@ Python, OpenAI API, Google Calendar API, SpeechRecognition, PyPDF2, pyttsx3, new
    ```bash
    git clone https://github.com/yourusername/ai-personal-assistant.git
    cd ai-personal-assistant```
+
+2.Create a virtual environment and activate it:
+   python -m venv .venv
+source .venv/bin/activate        # For Linux/macOS
+.venv\Scripts\activate           # For Windows
