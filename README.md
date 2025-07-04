@@ -28,11 +28,24 @@ Python, OpenAI API, Google Calendar API, SpeechRecognition, PyPDF2, pyttsx3, new
 
 2.Create a virtual environment and activate it:
 
-   ```python -m venv .venv
+   ```
+python -m venv .venv
 source .venv/bin/activate        # For Linux/macOS
 .venv\Scripts\activate           # For Windows
 ```
 
 3. Install all required dependencies:
-```pip install -r requirements.txt
 ```
+pip install -r requirements.txt
+```
+4. Add your environment variables:
+
+Create a .env file in the project root:
+```
+OPENAI_API_KEY=your_openai_api_key
+```
+5. Run the personal assistant:
+   ```
+   python personal_assistant.py
+
+   ```
