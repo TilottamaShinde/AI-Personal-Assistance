@@ -30,7 +30,8 @@ Python, OpenAI API, Google Calendar API, SpeechRecognition, PyPDF2, pyttsx3, new
 
    ```python -m venv .venv
 source .venv/bin/activate        # For Linux/macOS
-.venv\Scripts\activate           # For Windows```
+.venv\Scripts\activate           # For Windows
+```
 
 3. Install all required dependencies:
 ```pip install -r requirements.txt
