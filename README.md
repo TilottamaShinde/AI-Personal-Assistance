@@ -15,6 +15,7 @@ An intelligent, voice-based personal assistant built with Python. It understands
 
 ##  Tech Stack
 
+
 Python, OpenAI API, Google Calendar API, SpeechRecognition, PyPDF2, pyttsx3, newspaper3k, dotenv
 
 ---
